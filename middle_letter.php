@@ -1,6 +1,6 @@
 <?php
-$S = (string)fgets(STDIN);
+$S = (string) fgets(STDIN);
 $a = strlen($S) / 2;
-$ans = $S[$a];
+$ans = $S[(int)$a];
 echo $ans . "\n";
 ?>
