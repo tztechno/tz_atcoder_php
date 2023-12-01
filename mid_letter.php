@@ -5,4 +5,4 @@ $ans = $S[$a];
 echo $a . "\n";
 ?>
 
-maybe wrong?
+wrong scripts?
