@@ -1,7 +1,7 @@
 #ABC329_B
 #next
 
-?php
+<?php
 
 $N = intval(trim(fgets(STDIN)));
 $A = array_map('intval', explode(' ', trim(fgets(STDIN))));
