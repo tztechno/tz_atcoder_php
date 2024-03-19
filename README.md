@@ -12,3 +12,10 @@ list($charArray[$a - 1], $charArray[$b - 1]) = array($charArray[$b - 1], $charAr
 //print(''.join(S))  
 $S = implode('', $charArray);  
 
+
+//[$a,$b,$x] = array_map('intval', explode(' ', trim(fgets(STDIN))));
+//[$n] = array_map('intval', explode(' ', trim(fgets(STDIN))));
+//$a = array_map('intval', explode(' ', trim(fgets(STDIN))));
+//[$s,$t] = explode(' ', trim(fgets(STDIN)));
+//[$s] = explode(' ', trim(fgets(STDIN)));
+//$s = explode(' ', trim(fgets(STDIN)));
