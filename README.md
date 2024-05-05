@@ -1,5 +1,8 @@
 # tz_atcoder_php
 
+
+---
+
 //a,b=map(int,input().split())  
 list($a, $b) = explode(' ', trim(fgets(STDIN)));  
 
@@ -19,3 +22,5 @@ $S = implode('', $charArray);
 //[$s,$t] = explode(' ', trim(fgets(STDIN)));
 //[$s] = explode(' ', trim(fgets(STDIN)));
 //$s = explode(' ', trim(fgets(STDIN)));
+
+---
